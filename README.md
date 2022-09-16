@@ -1,6 +1,7 @@
 # Ecommerce Store
 
 ## Technologies
+
 - React
 - Node
 - Express
