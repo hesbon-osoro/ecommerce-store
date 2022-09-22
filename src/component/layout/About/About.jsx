@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import { Button, Typography, Avatar } from '@material-ui/core';
-import { YouTube, Github, LinkedIn, Twitter } from '@material-ui/icons';
+import { YouTube, GitHub, LinkedIn, Twitter } from '@material-ui/icons';
 const About = () => {
   const visitGithub = () => {
     window.location = 'https://github.com/hesbon-osoro';
@@ -40,7 +40,7 @@ const About = () => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <Github className="githubSvgIcon" />
+              <GitHub className="githubSvgIcon" />
             </a>
             <a
               href="https://www.linkedin.com/in/hesbon-osoro"
