@@ -1,5 +1,5 @@
 import React, { Fragment, useEffect, useRef } from 'react';
-import CheckoutSteps from '../CheckoutSteps';
+import CheckoutSteps from './CheckoutSteps';
 import { useDispatch, useSelector } from 'react-redux';
 import MetaData from '../layout/MetaData';
 import { Typography } from '@material-ui/core';
