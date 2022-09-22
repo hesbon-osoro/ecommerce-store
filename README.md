@@ -31,3 +31,5 @@ yarn start
 ```
 
 [`Server`](https://github.com/hesbon-osoro/ecommerce-store-server) code
+
+Learn more about the project from this [`Youtube`](https://www.youtube.com/watch?v=AN3t-OmdyKA) channel :)
