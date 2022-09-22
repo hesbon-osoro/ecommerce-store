@@ -11,7 +11,7 @@ import {
 } from '@material-ui/icons';
 import { useHistory } from 'react-router-dom';
 import { useAlert } from 'react-alert';
-import { logout } from '../../../../actions/user';
+import { logout } from '../../../actions/user';
 import { useDispatch, useSelector } from 'react-redux';
 
 const UserOptions = ({ user }) => {
