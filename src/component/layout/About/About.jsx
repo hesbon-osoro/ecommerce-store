@@ -11,7 +11,7 @@ const About = () => {
       <div></div>
       <div className="aboutSectionGradient"></div>
       <div className="aboutSectionContainer">
-        <Typography component="hi">About Us</Typography>
+        <Typography component="h1">About Us</Typography>
         <div>
           <div>
             <Avatar
